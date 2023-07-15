@@ -1,0 +1,6 @@
+ValuableDataFromLogs/keywords.py 2 - for scanning text files for customisable keywords. Maybe you’re looking to only find logs with mentions of “shitcoin” in them? This will do just that for you. Keywords are comma separated.
+
+ValuableDataFromLogs/cards.py 3 - This script takes an input and output paths, then counts the number of folders it sees in the input directory, prints that for the user and asks if you would like to proceed. Answer with y or n .
+If yes, it will search folders and subfolders in the input path for ex. “CreditCards” . If such a folder is found, it will take that folder and copy it over to the output path with 10 letters appended to the beginning of the new foldername. Very simple and so customisable.
+
+ValuableDataFromLogs/Passwords.py - similar to the previous but looks for textfiles
